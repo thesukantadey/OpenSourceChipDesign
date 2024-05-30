@@ -10,6 +10,14 @@
 
 Running openlane in docker and Synthesis:
 
+```bash
+docker
+./flow.tcl -interactive
+prep -design picorv32a
+run_synthesis
+```
+
+
 ![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/3bb595e9-3644-4735-b951-ad3cc320753f)
 
 
