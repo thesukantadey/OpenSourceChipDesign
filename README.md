@@ -26,6 +26,7 @@ run_synthesis
 
 
 # Flop ratio
+![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/2ad3466b-ad04-48d7-91ec-56d3ffbfcfaf)
 
 number of D FF (dfxtp_2) = 1613 \
 number of cells = 14876 \
