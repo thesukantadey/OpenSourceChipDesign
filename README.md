@@ -8,6 +8,9 @@
 ![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/be6d580e-e515-4e94-9d72-75dbc353d6ec)
 
 
+Running openlane in docker and Synthesis:
+
+![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/3bb595e9-3644-4735-b951-ad3cc320753f)
 
 
 
