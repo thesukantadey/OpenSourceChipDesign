@@ -20,5 +20,6 @@ run_synthesis
 
 ![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/3bb595e9-3644-4735-b951-ad3cc320753f)
 
+![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/40e956b8-8988-43c3-b8db-d622dfd85981)
 
 
