@@ -37,7 +37,12 @@ Flop ratio = 1613/14876 = 0.1084
 ```bash
 run_floorplan
 ```
+![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/8e3f09c2-87e7-43e4-b9ce-aebfb03a6ab7)
+
+![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/7435c1ac-2a74-4a89-990f-1f7a913461b9)
+
 
 ```bash
 magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read results/floorplan/merged_unpadded.lef def read results/floorplan/picorv32a.floorplan.def
 ```
+![image](https://github.com/thesukantadey/OpenSourceChipDesign/assets/3337377/632f7a99-59ed-486b-a4d7-8877226ea161)
