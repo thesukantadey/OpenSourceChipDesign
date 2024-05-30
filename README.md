@@ -31,3 +31,13 @@ run_synthesis
 number of D FF (dfxtp_2) = 1613 \
 number of cells = 14876 \
 Flop ratio = 1613/14876 = 0.1084
+
+# Floorplanning and Viewing layout in Magic
+
+```bash
+run_floorplan
+```
+
+```bash
+magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read results/floorplan/merged_unpadded.lef def read results/floorplan/picorv32a.floorplan.def
+```
